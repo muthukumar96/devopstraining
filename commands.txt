@@ -1,0 +1,17 @@
+Siva priya@Lenovo MINGW64 ~/Documents/training (master)
+$ git config --global user.name "muthukumar96"
+
+Siva priya@Lenovo MINGW64 ~/Documents/training (master)
+$ git config --global user.email "selvammuthukumar123@gmail.com"
+
+Siva priya@Lenovo MINGW64 ~/Documents/training (master)
+$ git clone https://github.com/muthukumar96/devopstraining.git
+Cloning into 'devopstraining'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+Siva priya@Lenovo MINGW64 ~/Documents/training (master)
+$
+
+
